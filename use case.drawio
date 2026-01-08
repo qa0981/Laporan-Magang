@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="ZNC1w-Ed0OyGEvx8knnG">
+    <mxGraphModel dx="1240" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#000000,#000000);" value="Actor" vertex="1">
+          <mxGeometry height="90" width="45" x="50" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Mengirim pesan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="220" y="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Analisis pesan&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;masuk&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="220" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Menampilkan menu Jadwal / Layanan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-12" edge="1" parent="1" source="1SOjcEXh2hq8GLLbh2Pn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);dashed=1;" target="1SOjcEXh2hq8GLLbh2Pn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-14" edge="1" parent="1" source="1SOjcEXh2hq8GLLbh2Pn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);dashed=1;" target="1SOjcEXh2hq8GLLbh2Pn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Input pilihan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="220" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Terima balasan pesan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="220" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Pesan dikenali&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="400" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1SOjcEXh2hq8GLLbh2Pn-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Pesan tidak dikenali&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" x="400" y="485" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
